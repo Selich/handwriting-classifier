@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'handwritting.urls'
+ROOT_URLCONF = 'handwriting.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'handwritting.wsgi.application'
+WSGI_APPLICATION = 'handwriting.wsgi.application'
 
 
 # Database
